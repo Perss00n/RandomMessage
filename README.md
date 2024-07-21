@@ -1,4 +1,4 @@
-# Generate Random Message
+# [Project] Generate Random Message
 
 Welcome to **Generate Random Message**, a simple JavaScript script that generates a random message to the console. This project marks my first Portfolio Project on Codecademy as I embark on my journey to become a backend developer.
 
